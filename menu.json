@@ -2,7 +2,7 @@
   "currency": "تومان",
   "categories": [
     {"name":"قهوه گرم","items":[
-      {"title":"اسپرسو","price":60000,"desc":"تک شات عربیکا","img":"https://imgur.com/a/d9ZSyrM"},
+      {"title":"اسپرسو","price":60000,"desc":"تک شات عربیکا","img":"espresso-category.png"},
       {"title":"لاته","price":90000,"desc":"با شیر تازه","img":""},
       {"title":"آمریکانو","price":80000,"desc":"تلخ و سبک","img":""}
     ]},
